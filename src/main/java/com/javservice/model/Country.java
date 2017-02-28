@@ -10,6 +10,7 @@ public class Country {
 
   public Country(String name,String isoCode) {
     this.name = name;
+    this.isoCode = isoCode;
   }
 
   public String getName() {
